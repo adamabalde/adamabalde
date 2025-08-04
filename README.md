@@ -23,7 +23,7 @@
 Python, Java, PHP, C, JavaScript
 
 **Développement Web / Web Development**  
-HTML/CSS, Angular, Bootstrap
+HTML/CSS, Angular, Bootstrap, React
 
 **Bases de données / Databases**  
 MySQL, MongoDB
